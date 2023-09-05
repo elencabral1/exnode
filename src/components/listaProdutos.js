@@ -9,4 +9,9 @@ export const listaProdutos = [
         nome: 'Mouse',
         preco: 120
     },
+    {
+        id: 3,
+        nome: "Monitor",
+        preco: 950
+    },
 ]
